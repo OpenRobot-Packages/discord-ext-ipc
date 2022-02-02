@@ -1,1 +1,3 @@
-
+aiohttp
+async-timeout
+chardet
